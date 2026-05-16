@@ -15,10 +15,14 @@ El uso de estos dos programas es igual; al ejecutar el programa, se pedirá el i
 - VS code    
 
 ## Resultados esperados:
+
 Los resultados esperados mostraron que el programa que usa el módulo bisect para la búsqueda binaria tiene un más de rapidez que el programa que usa el método de búsqueda secuencial. Como un ejemplo, se ingresó el número `500.000`, en donde los resultados fueron:
+
 **Busqueda binaria:**
 - Tiempo: `0.00001280`
+
 **Busqueda secuencial:**
 - Tiempo: `0.03211430`
+
 **Resultados:**
 La diferencia entre estos resultados mostró una diferencia aproximada de 32 milisegundos entre el método de búsqueda binaria frente al método secuencial, lo cual podrá sonar mínimo para nosotros, pero que en realidad es una diferencia enorme en campos más avanzados de manejo de datos.
