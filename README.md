@@ -14,7 +14,7 @@ El uso de estos dos programas es igual; al ejecutar el programa, se pedirá el i
 - Python 3.14
 - VS code    
 
-## Resultados esperados:
+## Resultados encontrados:
 
 Los resultados esperados mostraron que el programa que usa el módulo bisect para la búsqueda binaria tiene un más de rapidez que el programa que usa el método de búsqueda secuencial. Como un ejemplo, se ingresó el número `500.000`, en donde los resultados fueron:
 
