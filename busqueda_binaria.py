@@ -13,10 +13,10 @@ tiempo_total= tiempo_fi - timpo_in
 
 print("|||||||||||||||RESULTADOS-NUMERO Y TIEMPO|||||||||||||||")
 if busqueda < len(matriz) and matriz[busqueda] == numero:
-    print(f"El numero {numero}, encontrado en la posicion {busqueda}")
+    print(f"El numero {numero}, encontrado en la posicion {busqueda}.")
 else:
     print(f"El numero {numero} no se encuentra en la matriz")
-print(f"El timepo total de la busqueda fue de {tiempo_total:.8f}")
+print(f"El timepo total de la busqueda fue de {tiempo_total:.8f} segundos.")
 
 
 
