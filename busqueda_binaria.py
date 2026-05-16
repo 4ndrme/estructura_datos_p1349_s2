@@ -2,7 +2,7 @@ import bisect
 import time
 matriz = [i for i in range(1, 1000001)]
 
-numero =int(input("Ingrese el numero que desa buscar"))
+numero =int(input("Ingrese el numero que desa buscar: "))
 
 timpo_in = time.perf_counter()
 
